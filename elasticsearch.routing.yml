@@ -1,0 +1,7 @@
+elasticsearch.main_page:
+  path: '/elasticsearch'
+  defaults:
+    _controller: '\Drupal\elasticsearch\Controller\elasticController:Index'
+    _title: 'Main page of Elasticsearch'
+  requirements:
+    _permission: 'access content'

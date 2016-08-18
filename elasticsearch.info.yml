@@ -1,0 +1,6 @@
+name: Elasticsearch
+description: 'Elasticsearch integration with Drupal'
+type: module
+packege: Custom
+version: 8.1
+core: 8.x
